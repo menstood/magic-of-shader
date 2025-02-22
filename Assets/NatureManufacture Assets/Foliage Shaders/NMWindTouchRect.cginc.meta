@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b275005887200042bbf14338507431f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Foliage Shaders/NMWindTouchRect.cginc
+  uploadId: 651274

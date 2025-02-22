@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09b0a79c132d834499b2a123ad446657
+timeCreated: 1512123522
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Dynamic Nature - Mountain Tree Pack/Models/Materials/M_Fir_Bark_02_03_Static_Snow.mat
+  uploadId: 651274

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c75de0e56cd0c84bb5c99f27984a0c0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Foliage Shaders/Tree_Bark_Specular_Snow.shader
+  uploadId: 651274

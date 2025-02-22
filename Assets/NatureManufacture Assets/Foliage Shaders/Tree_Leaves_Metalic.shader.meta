@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3ac8f0f969db81d4aab57fe4a28db9c3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Foliage Shaders/Tree_Leaves_Metalic.shader
+  uploadId: 651274

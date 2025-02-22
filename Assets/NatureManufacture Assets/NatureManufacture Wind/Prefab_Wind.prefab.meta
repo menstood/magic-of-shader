@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8dfd17a03533a0241b37daf2264ebdfd
+timeCreated: 1526026175
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/NatureManufacture Wind/Prefab_Wind.prefab
+  uploadId: 651274

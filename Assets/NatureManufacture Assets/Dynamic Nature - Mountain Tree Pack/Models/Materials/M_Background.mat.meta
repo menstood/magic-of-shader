@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 29d401d724317aa4e9b9cd95e1e7aaa4
+timeCreated: 1513071897
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Dynamic Nature - Mountain Tree Pack/Models/Materials/M_Background.mat
+  uploadId: 651274

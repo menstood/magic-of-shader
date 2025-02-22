@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ae95c5316e09d6341866e8b97baf7e4b
+timeCreated: 1512123522
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Dynamic Nature - Mountain Tree Pack/Models/Materials/M_Fir_Bark_01_06.mat
+  uploadId: 651274

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a69d5225f8bd70341b4b06cb7b58e430
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Foliage Shaders/Cross_Model_Shader.shader
+  uploadId: 651274

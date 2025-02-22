@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 38cb51b9b0988b74d925b0986cf67d1a
+timeCreated: 1512126428
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Dynamic Nature - Mountain Tree Pack/Prefabs/Snow
+    Static/Fir_04_Standalone Static_Snow.prefab
+  uploadId: 651274

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a1c955eddea1e0f4e9c4673c479e80dc
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107004
+  packageName: Mountain Trees - Dynamic Nature
+  packageVersion: 2.8.4
+  assetPath: Assets/NatureManufacture Assets/Foliage Shaders/Tree_Leaves_Specular.shader
+  uploadId: 651274
