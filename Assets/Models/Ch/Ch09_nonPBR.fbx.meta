@@ -5,6 +5,11 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch09_body
+    second: {fileID: 2100000, guid: e2563c3574197754cb8797baffe42f49, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch09_1001_Diffuse

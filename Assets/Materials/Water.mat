@@ -39,7 +39,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 170322f15fc05a942aeac0206f0ce3be, type: 3}
+        m_Texture: {fileID: 2800000, guid: 029d09227bc39ba41a51f1ef793bbfd5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap2:
@@ -65,14 +65,14 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0.75
-    - _Speed: 0.1
-    - _Speed2: -0.05
+    - _Speed: 0.01
+    - _Speed2: -0.1
     - _Tiling: 4
     - _WaveAmp: 0.01
     - _WaveH: 10
-    - _WaveSpeed: 0.1
+    - _WaveSpeed: 0.5
     m_Colors:
     - _DeepWater: {r: 0.6415094, g: 0.6415094, b: 0.6415094, a: 0.8784314}
-    - _ShallowWater: {r: 1, g: 1, b: 1, a: 0.59607846}
+    - _ShallowWater: {r: 1, g: 1, b: 1, a: 0.7019608}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
